@@ -1,0 +1,4 @@
+class_path: cookbook.config.shared.agent_storage_location.AgentStorageConfig
+evaluation_set_uc_table: krish_db.cookbook_local_test.my_agent_3_eval_set
+mlflow_experiment_name: /Users/krishanu.dasbaksi@databricks.com/my_agent_3_mlflow_experiment
+uc_model_name: krish_db.cookbook_local_test.my_agent_3
